@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cdn-spotify-experiments.conductrics.com",
+        "spotify.map.fastlylb.net",
+        "spotify.com.edgesuite.net",
+        "spotify.map.fastly.net",
+        "audio4-ak-spotify-com.akamaized.net",
+        "heads-ak-spotify-com.akamaized.net"
+      ],
+      "domain_keyword": [
+        "spotify"
+      ],
+      "domain_suffix": [
+        "spoti.fi",
+        "spotifyjobs.com",
+        "scdn.co",
+        "spotifycodes.com",
+        "spotify.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "byspotify.com",
+        "spotifycharts.com",
+        "spotifycdn.net",
+        "heads4-ak-spotify-com.akamaized.net",
+        "pscdn.co",
+        "spotify-com.akamaized.net",
+        "spotify.design",
+        "spotify.app.link",
+        "spotilocal.com",
+        "spotifyforbrands.com",
+        "spotifycdn.com",
+        "spotifynewsroom.jp",
+        "tospotify.com",
+        "spotify-everywhere.com"
+      ]
+    }
+  ],
+  "version": 3
+}

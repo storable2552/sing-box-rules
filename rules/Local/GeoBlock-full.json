@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "digitalocean.com",
+        "motionarray.com",
+        "cachyos.org",
+        "radarr.video",
+        "digiseller.mycdn.ink",
+        "pixels-home.ru",
+        "treeofalpha.com",
+        "ggsel.com",
+        "servarr.com",
+        "ggsel.net",
+        "plati.market",
+        "pika-os.com",
+        "rozetka.com.ua",
+        "kde.org",
+        "altfins.com",
+        "openweathermap.org/",
+        "themoviedb.org",
+        "openh264.org",
+        "wdfiles.com",
+        "clickup.com",
+        "crom.avn.sh",
+        "wikidot.com",
+        "plati.io",
+        "lutris.net",
+        "pexels.com",
+        "prowlarr.com",
+        "4pda.to",
+        "scpwiki.com",
+        "tmdb.org",
+        "omacom.io",
+        "fyralabs.com",
+        "noctalia.dev",
+        "intel.com",
+        "xiaomiyoupin.com",
+        "habr.com",
+        "digiseller.ru",
+        "dyor.net",
+        "omarchy.org"
+      ]
+    }
+  ],
+  "version": 3
+}

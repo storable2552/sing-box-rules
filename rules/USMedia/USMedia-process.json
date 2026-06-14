@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.showtime.standalone",
+        "com.cbs.app",
+        "com.hulu.plus"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.jjwxc.reader"
+      ]
+    }
+  ],
+  "version": 3
+}

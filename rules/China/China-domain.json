@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "aliyun",
+        "taobao",
+        "baidu",
+        "alipay",
+        "beplay",
+        "microsoft",
+        "alicdn",
+        "officecdn",
+        ".tmall.com"
+      ]
+    }
+  ],
+  "version": 3
+}

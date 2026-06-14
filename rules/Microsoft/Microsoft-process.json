@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "OneDriveUpdater",
+        "OneDrive"
+      ]
+    }
+  ],
+  "version": 3
+}

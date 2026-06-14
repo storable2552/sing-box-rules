@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "ios-log.",
+        "applog.",
+        "pclog.",
+        "pc-log.",
+        "analytics.",
+        "ioslog.",
+        "app-log.",
+        "app-analytics",
+        "fzlm"
+      ]
+    }
+  ],
+  "version": 3
+}

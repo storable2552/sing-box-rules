@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmmrex.com",
+        "akatsukiworks.com",
+        "dmm.hk",
+        "api-p.videomarket.jp",
+        "hibiki-site.com",
+        "wheel-soft.com",
+        "navismithapis-cdn.com",
+        "tenco.cc",
+        "akabeesoft3.com",
+        "akabeesoft2.com",
+        "dmm.com",
+        "alicesoft.com",
+        "ddo.jp",
+        "minori.ph",
+        "dmmapis.com",
+        "cosmiccute.com",
+        "dmm-extension.com",
+        "dmm.co.jp"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "Thunder.exe",
+        "Thunder"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.italkbbtv.phone"
+      ]
+    }
+  ],
+  "version": 3
+}

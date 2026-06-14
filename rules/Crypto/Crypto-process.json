@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "OKX.exe",
+        "Huobi.exe",
+        "Binance.exe"
+      ]
+    }
+  ],
+  "version": 3
+}

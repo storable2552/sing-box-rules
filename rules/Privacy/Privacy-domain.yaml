@@ -1,0 +1,10 @@
+payload:
+  - 'analytics.'
+  - 'app-analytics'
+  - 'app-log.'
+  - 'applog.'
+  - 'fzlm'
+  - 'ios-log.'
+  - 'ioslog.'
+  - 'pc-log.'
+  - 'pclog.'

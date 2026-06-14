@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "rutor.info",
+        "bitru.org",
+        "torrent.by",
+        "use.selezen.club",
+        "lostfilm.tv",
+        "kinozal.me",
+        "bigfangroup.org",
+        "nntt.org",
+        "rutor.is",
+        "nnmstatic.win",
+        "tfile.cc",
+        "anidub.com",
+        "gtorrent.pro",
+        "rutracker.cc",
+        "rustorka.com",
+        "rutracker.org",
+        "nnmclub.to",
+        "uniongang.net",
+        "eniatv.com",
+        "uniondht.org",
+        "exkinoray.fun",
+        "kinozal.guru",
+        "riperam.org",
+        "torrents-local.xyz",
+        "seedoff.zannn.top",
+        "rutracker.ru",
+        "kinozal.tv",
+        "megapeer.vip",
+        "newstudio.tv",
+        "rutracker.net",
+        "booktracker.org",
+        "tapochek.net"
+      ]
+    }
+  ],
+  "version": 3
+}

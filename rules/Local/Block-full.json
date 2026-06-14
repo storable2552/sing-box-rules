@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "medium.com",
+        "itch.io",
+        "cub.red",
+        "threads.com",
+        "amnezia.org",
+        "adguard.com",
+        "linktr.ee",
+        "ntc.party",
+        "iesdev.com",
+        "vdsina.com",
+        "metacritic.com",
+        "blitz.gg",
+        "meduza.io",
+        "kino.pub",
+        "pornolab.net",
+        "bbc.com",
+        "tealstreet.io",
+        "adguard.info"
+      ]
+    }
+  ],
+  "version": 3
+}

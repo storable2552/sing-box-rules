@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "qiyi"
+      ],
+      "domain_suffix": [
+        "baiying.com",
+        "ppsimg.com",
+        "suike.cn",
+        "iq.com",
+        "qiyi.com",
+        "71edge.com",
+        "iqiyi.demo.uwp",
+        "71.am",
+        "71.am.com",
+        "ppsurl.com",
+        "gitv.tv",
+        "qiyipic.com",
+        "ppstream.cn",
+        "aianno.cn",
+        "ibkstore.com",
+        "iqiyi.com",
+        "qiyi.cn",
+        "ppstream.com.cn",
+        "qy.net",
+        "iqiyipic.com",
+        "ppstream.net",
+        "pps.tv",
+        "iqiyiedge.net",
+        "ppstream.net.cn",
+        "gitv.cn",
+        "71edge.net",
+        "aiqiyicloud.net",
+        "aiqiyicloud.com",
+        "aianno.com",
+        "ppstream.com",
+        "qy.com",
+        "aiqiyicloud-mgmt.com",
+        "iqiyiedge.com",
+        "jiangbing.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

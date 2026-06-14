@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "twitter"
+      ],
+      "domain_suffix": [
+        "twitpic.com",
+        "x.com",
+        "twttr.com",
+        "pscp.tv",
+        "twitter.jp",
+        "vine.co",
+        "t.co",
+        "grok.com",
+        "twitterinc.com",
+        "tweetdeck.com",
+        "twimg.org",
+        "twitter.biz",
+        "ads-twitter.com",
+        "twitteroauth.com",
+        "twtrdns.net",
+        "twimg.com",
+        "twitter.com",
+        "twttr.net",
+        "twittercommunity.com",
+        "twitterstat.us",
+        "twvid.com",
+        "periscope.tv",
+        "tellapart.com",
+        "cms-twdigitalassets.com",
+        "twitterflightschool.com",
+        "twimg.co"
+      ]
+    }
+  ],
+  "version": 3
+}

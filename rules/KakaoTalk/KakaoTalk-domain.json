@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "potplayer.tv",
+        "kakao.com",
+        "daumpotplayer.com",
+        "daumkakao.io",
+        "daum.net",
+        "kakaocdn.net",
+        "kakaocorp.com",
+        "kakao.co.kr",
+        "daumcdn.net"
+      ]
+    }
+  ],
+  "version": 3
+}

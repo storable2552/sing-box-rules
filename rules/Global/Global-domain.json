@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "blogspot",
+        "spotify",
+        "twitter",
+        "dlercloud",
+        "tiktok",
+        "telegram",
+        "uk-live",
+        "avoddashs",
+        "voddazn",
+        "paypal",
+        "porn",
+        "skydrive",
+        "bbcfmt",
+        "abema",
+        "1e100",
+        "fbcdn",
+        "avtb",
+        "onedrive",
+        "facebook",
+        "dropbox",
+        "1drv",
+        "beetalk",
+        "ttvnw",
+        "twimg",
+        "appledaily",
+        "whatsapp",
+        "amazon",
+        "musical.ly",
+        "gmail",
+        "jav",
+        "google",
+        "youtube",
+        "pinterest",
+        "sci-hub",
+        "instagram",
+        "wikileaks"
+      ]
+    }
+  ],
+  "version": 3
+}

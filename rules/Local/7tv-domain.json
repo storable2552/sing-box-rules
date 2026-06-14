@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "betterttv.net",
+        "frankerfacez.com",
+        "7tv.app"
+      ]
+    }
+  ],
+  "version": 3
+}

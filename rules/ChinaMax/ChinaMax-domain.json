@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "weibo",
+        "aliyun",
+        "hnagroup",
+        "taobao",
+        "baidu",
+        "qiyi",
+        "alipay",
+        "beplay",
+        "bilibili",
+        "stripe",
+        "alicdn",
+        "officecdn",
+        ".tmall.com"
+      ]
+    }
+  ],
+  "version": 3
+}

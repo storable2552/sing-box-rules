@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "statuspage.io",
+        "trello.com",
+        "atlassian.com",
+        "bitbucket.org",
+        "trellocdn.com"
+      ]
+    }
+  ],
+  "version": 3
+}

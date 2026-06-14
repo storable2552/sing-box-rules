@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.vuclip.viu",
+        "com.viu.pad",
+        "com.viu.phone"
+      ]
+    }
+  ],
+  "version": 3
+}

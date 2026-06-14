@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jules.google",
+        "assistant-s3-pa.googleapis.com",
+        "bard.google.com",
+        "aisandbox-pa.googleapis.com",
+        "gstatic.com",
+        "ai.google.dev",
+        "ogads-pa.clients6.google.com",
+        "googletagmanager.com",
+        "notebooklm.google",
+        "play.google.com",
+        "generativeai.google",
+        "makersuite.google.com",
+        "lookerstudio.google.com",
+        "aitestkitchen.withgoogle.com",
+        "labs.google",
+        "o.pki.goog",
+        "jules.google.com",
+        "aistudio.google.com",
+        "signaler-pa.clients6.google.com",
+        "google-analytics.com",
+        "accounts.google.com",
+        "google.com",
+        "gemini.google.com",
+        "robinfrontend-pa.googleapis.com",
+        "suggestqueries.google.com",
+        "fonts.gstatic.com",
+        "clients6.google.com",
+        "stitch.withgoogle.com",
+        "gemini.google",
+        "deepmind.google",
+        "lh3.googleusercontent.com",
+        "proactivebackend-pa.googleapis.com",
+        "waa-pa.clients6.google.com",
+        "geller-pa.googleapis.com",
+        "gemini.gstatic.com",
+        "analytics.google.com",
+        "lh3.google.com",
+        "generativelanguage.googleapis.com",
+        "ogs.google.com",
+        "notebooklm.google.com"
+      ]
+    }
+  ],
+  "version": 3
+}

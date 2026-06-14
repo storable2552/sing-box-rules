@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "WebTorrentHelper",
+        "WebTorrent",
+        "amuled",
+        "ThunderVIP",
+        "clash",
+        "uTorrent",
+        "v2ray",
+        "cloudflared",
+        "DownloadService",
+        "SunloginClient_Desktop",
+        "transmission-qt",
+        "LogiOptionsDaemon",
+        "Thunder",
+        "transmission-daemon",
+        "fdm",
+        "LogiOptions",
+        "BaiduNetdisk_mac",
+        "BitComet",
+        "tailscaled",
+        "LocalSend",
+        "qbittorrent-nox",
+        "trojan",
+        "privoxy",
+        "qBittorrent",
+        "ss-local",
+        "ClashX",
+        "Folx",
+        "qbittorrent*",
+        "aria2c",
+        "UUBooster",
+        "parsecd",
+        "SunloginClient_Helper",
+        "Transmission",
+        "xray",
+        "NetTransport",
+        "trojan-go"
+      ]
+    }
+  ],
+  "version": 3
+}

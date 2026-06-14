@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.apple.geod"
+      ]
+    }
+  ],
+  "version": 3
+}

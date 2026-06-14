@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "TV"
+      ]
+    }
+  ],
+  "version": 3
+}

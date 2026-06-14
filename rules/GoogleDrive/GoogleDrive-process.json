@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "BackupandSync"
+      ]
+    }
+  ],
+  "version": 3
+}

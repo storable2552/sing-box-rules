@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hdrezka.ag",
+        "hdrezka.tech",
+        "rezka.land",
+        "hdrezka-home.tv",
+        "stream.voidboost.cc",
+        "rezka.fi",
+        "hdrezka.ac",
+        "hdrezka.tv",
+        "voidboost.cc",
+        "hdrezka.me",
+        "hdrzk.org",
+        "rezka.ag",
+        "hdrezka.app",
+        "laptostack.org",
+        "rezka.cc",
+        "rezka.tv",
+        "hd-rezka.tv",
+        "rezkify.com",
+        "rezka.my",
+        "voidnetwork.cloud"
+      ]
+    }
+  ],
+  "version": 3
+}

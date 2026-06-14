@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.xiaomi.mibrain.speech",
+        "\u5c0f\u7c73\u4e91\u670d\u52a1.exe"
+      ]
+    }
+  ],
+  "version": 3
+}

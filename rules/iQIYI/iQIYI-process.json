@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.qiyi.video"
+      ]
+    }
+  ],
+  "version": 3
+}

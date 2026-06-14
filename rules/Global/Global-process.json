@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "LookupViewService"
+      ]
+    }
+  ],
+  "version": 3
+}

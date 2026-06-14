@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.cw.fullepisodes.android",
+        "com.cw.seed.android"
+      ]
+    }
+  ],
+  "version": 3
+}

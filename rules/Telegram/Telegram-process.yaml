@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,xyz.nextalone.nagram
+  - PROCESS-NAME,telegram-desktop
+  - PROCESS-NAME,nekox.messenger
+  - PROCESS-NAME,tw.nekomimi.nekogram

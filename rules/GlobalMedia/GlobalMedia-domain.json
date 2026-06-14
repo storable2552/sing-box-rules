@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "spotify",
+        "dualstack.ichnaea-web-",
+        "tiktokcdn",
+        "rthklive",
+        "tvbanywhere",
+        "uk-live",
+        "apiproxy-device-prod-nlb-",
+        "avoddashs",
+        "hbogoasia",
+        "japonx",
+        "voddazn",
+        "nivod",
+        "bbcfmt",
+        "claude",
+        "ttvnw",
+        "olevod",
+        "hamivideo.cdn.hinet.net",
+        "netflixdnstest",
+        "jooxweb-api",
+        "dualstack.apiproxy-",
+        "anthropic",
+        "discovery.uplynk.com",
+        "youtube",
+        "nowtv100",
+        "abematv.akamaized.net",
+        "japronx"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gql.twitch.tv",
+        "usher.ttvnw.net"
+      ]
+    }
+  ],
+  "version": 3
+}

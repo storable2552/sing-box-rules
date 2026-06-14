@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nextmgz.com",
+        "next.hk",
+        "nxtdig.com.hk",
+        "appledaily.hk",
+        "privilege.hk",
+        "privilege.tw",
+        "nxtdig.com.tw",
+        "nextwork.tw",
+        "nextmedia.com.tw",
+        "deluxe.com.hk",
+        "nextdigital.com.hk",
+        "nextplus.com.hk",
+        "nexttv.com.tw",
+        "nextmedia.com",
+        "twnextdigital.com",
+        "nextwork.com.hk",
+        "applefruity.com",
+        "nextmag.com.tw",
+        "nextwork.com.tw",
+        "appledaily.com",
+        "eracom.com.tw",
+        "appledaily.com.hk",
+        "tomonews.net",
+        "applehealth.com.hk",
+        "nextfilm.com.hk",
+        "sharpdaily.tw",
+        "nextwork.hk",
+        "bestmallawards.com",
+        "atnext.com",
+        "omoplanet.com",
+        "nextdigital.com.tw",
+        "appledaily.com.tw"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "Music",
+        "findmydevice-user-agent",
+        "com.apple.geod",
+        "fmfd",
+        "apsd",
+        "LookupViewService",
+        "TV",
+        "trustd",
+        "mapspushd",
+        "com.apple.Maps",
+        "CoreLocationAgent",
+        "netbiosd",
+        "WeatherWidget"
+      ]
+    }
+  ],
+  "version": 3
+}

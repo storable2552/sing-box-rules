@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.hbo.hbonow"
+      ]
+    }
+  ],
+  "version": 3
+}

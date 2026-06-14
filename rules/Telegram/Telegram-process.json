@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "Telegram.exe",
+        "org.telegram.messenger",
+        "xyz.nextalone.nagram",
+        "telegram-desktop",
+        "nekox.messenger",
+        "tw.nekomimi.nekogram"
+      ]
+    }
+  ],
+  "version": 3
+}

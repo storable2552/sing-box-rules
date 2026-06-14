@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "yandex.az",
+        "yandex.com.ua",
+        "yandex.ee",
+        "yandex.jobs",
+        "yandex.com",
+        "yandex.kz",
+        "yandex.fr",
+        "yandex.com.am",
+        "yandex.lv",
+        "xn--d1acpjx3f.xn--p1ai",
+        "yandex.tm",
+        "yandex.eu",
+        "yandex.sx",
+        "yandex.ua",
+        "yandex.uz",
+        "yandex.tj",
+        "yandex.ru",
+        "yadi.sk",
+        "yandex.co.il",
+        "ya.ru",
+        "yandex.by",
+        "yandex.net",
+        "yandex.de",
+        "yandex.com.ge",
+        "yandex.md",
+        "yandex.com.tr",
+        "yastatic.net",
+        "yandex.kg",
+        "yandex.st",
+        "yandex.fi",
+        "yandex.aero",
+        "yandex.lt",
+        "yandex.com.ru",
+        "yandex"
+      ]
+    }
+  ],
+  "version": 3
+}

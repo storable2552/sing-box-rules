@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "weibo",
+        "aliyun",
+        "hnagroup",
+        "taobao",
+        "baidu",
+        "alipay",
+        "beplay",
+        "stripe",
+        "alicdn",
+        "officecdn",
+        ".tmall.com"
+      ]
+    },
+    {
+      "process_name": [
+        "tv.danmaku.bilibilihd",
+        "com.qiyi.video",
+        "Thunder.exe",
+        "com.bilibili.app.in",
+        "com.zhiliaoapp.musically",
+        "com.taobao.taobao",
+        "com.jjwxc.reader",
+        "com.xiaomi.mibrain.speech",
+        "com.bilibili.app.blue",
+        "Thunder",
+        "tv.danmaku.bili",
+        "com.bilibili.comic.intl",
+        "\u5c0f\u7c73\u4e91\u670d\u52a1.exe",
+        "com.bilibili.comic"
+      ]
+    }
+  ],
+  "version": 3
+}

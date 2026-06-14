@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kumi.com",
+        "kglink.cn",
+        "shuoba.com",
+        "kugou.net",
+        "kugoo.com",
+        "ktv.com",
+        "kufm.cn",
+        "shuoba.org",
+        "shuoba.me",
+        "kkzhan.com",
+        "gouwo.com",
+        "koowo.cn",
+        "koowo.com",
+        "kugou.com",
+        "tingkanbao.com",
+        "kgimg.com",
+        "kugouipv6.com",
+        "2496.cn",
+        "kuwo.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "tv.danmaku.bilibilihd",
+        "com.bilibili.app.in",
+        "com.bilibili.app.blue",
+        "tv.danmaku.bili",
+        "com.bilibili.comic.intl",
+        "com.bilibili.comic"
+      ]
+    }
+  ],
+  "version": 3
+}

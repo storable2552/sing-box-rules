@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.iqiyi.i18n",
+        "com.iqiyi.i18n.tv"
+      ]
+    }
+  ],
+  "version": 3
+}

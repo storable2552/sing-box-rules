@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "imageplusplus.com",
+        "xlsdn.cn",
+        "kuangshitech.com",
+        "visionhacker.com",
+        "megcup.com",
+        "face-plus-plus.com",
+        "xcyuntech.cn",
+        "xlsdn.com",
+        "imageplusplus.net",
+        "faceplusplus.com",
+        "imageplusplus.cn",
+        "brainpp.cn",
+        "kaolacam.net",
+        "yuesuoping.com",
+        "megvii-inc.com",
+        "faceid.com",
+        "koalacam.net",
+        "datafun.vip",
+        "xiaodaijl.com",
+        "megvii.com",
+        "faceplusplus.com.cn",
+        "imageplusplus.com.cn",
+        "brainplusplus.com.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

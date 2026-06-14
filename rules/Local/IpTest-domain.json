@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ipaddress.ai",
+        "ipleak.net",
+        "ipecho.net",
+        "dnsleak.net"
+      ]
+    }
+  ],
+  "version": 3
+}

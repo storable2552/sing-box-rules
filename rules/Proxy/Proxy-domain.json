@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "blogspot",
+        "spotify",
+        "twitter",
+        "dlercloud",
+        "telegram",
+        "uk-live",
+        "porn",
+        "paypal",
+        "skydrive",
+        "abema",
+        "1e100",
+        "fbcdn",
+        "onedrive",
+        "avtb",
+        "facebook",
+        "dropbox",
+        "1drv",
+        "beetalk",
+        "ttvnw",
+        "whatsapp",
+        "appledaily",
+        "gmail",
+        "google",
+        "youtube",
+        "sci-hub",
+        "instagram"
+      ]
+    }
+  ],
+  "version": 3
+}

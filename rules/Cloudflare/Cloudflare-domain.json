@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudflare-cn.com",
+        "cloudflareinsights-cn.com",
+        "cftest6.cn",
+        "cf-ipfs.com",
+        "cloudflare-ipfs.com",
+        "warp.plus",
+        "cloudflare.tv",
+        "cloudflaretest.com",
+        "cloudflareinsights.com",
+        "cloudflare.com",
+        "one.one.one",
+        "cftest8.com",
+        "cf-ns.tech",
+        "videodelivery.net",
+        "cloudflarestaging.com",
+        "cloudflareclient.com",
+        "cf-ns.site",
+        "cloudflarestoragegw.com",
+        "cloudflarestorage.com",
+        "trycloudflare.com",
+        "cf-ns.net",
+        "cloudflarestatus.com",
+        "cloudflarecn.net",
+        "cloudflarepreview.com",
+        "cloudflaressl.com",
+        "cloudflareaccess.com",
+        "cftest7.com",
+        "cf-ns.com",
+        "cloudflarewarp.com",
+        "every1dns.net",
+        "cloudflareprod.com",
+        "cloudflarebolt.com",
+        "cloudflare.net",
+        "cloudflareapps.com",
+        "cloudflareok.com",
+        "cloudflareresolve.com",
+        "pages.dev",
+        "workers.dev",
+        "pacloudflare.com",
+        "cloudflare-quic.com",
+        "cloudflarestream.com",
+        "cloudflare-dns.com",
+        "cftest5.cn"
+      ]
+    }
+  ],
+  "version": 3
+}

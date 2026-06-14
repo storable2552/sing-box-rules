@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.tencent.qqlivei18n",
+        "com.tencent.qqlivei18n.us"
+      ]
+    }
+  ],
+  "version": 3
+}

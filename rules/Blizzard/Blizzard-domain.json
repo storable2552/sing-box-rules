@@ -1,0 +1,48 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bnetshopus.akamaized.net",
+        "diabloimmortal.com",
+        "blizzardgames.cn",
+        "wow.nosdn.127.net",
+        "bnetcmsus-a.akamaihd.net",
+        "bnet.163.com",
+        "playwarcraft3.com",
+        "starcraft2.com",
+        "worldofwarcraft.com",
+        "blizzcon-a.akamaihd.net",
+        "blznav.akamaized.net",
+        "bnetproduct-a.akamaihd.net",
+        "blzstatic.cn",
+        "battlenet.com.cn",
+        "overwatch.nosdn.127.net",
+        "diablo3.com",
+        "blizzard.cn",
+        "blizzard.nefficient.co.kr",
+        "playoverwatch.com",
+        "wowchina.com",
+        "battlenet.com",
+        "sc2.nosdn.127.net",
+        "battle.net",
+        "diablo3.nosdn.127.net",
+        "blizzardgearstore.com",
+        "blzddist1-a.akamaihd.net",
+        "blzddistkr1-a.akamaihd.net",
+        "hearthstone.nosdn.127.net",
+        "heroesofthestorm.com",
+        "blz-contentstack.com",
+        "di.res.netease.com",
+        "cdp.cloud.unity3d.com",
+        "firesidegatherings.com",
+        "playhearthstone.com",
+        "blz.nosdn.127.net",
+        "starcraft.com",
+        "blzmedia-a.akamaihd.net",
+        "heroes.nos.netease.com",
+        "blizzard.com"
+      ]
+    }
+  ],
+  "version": 3
+}

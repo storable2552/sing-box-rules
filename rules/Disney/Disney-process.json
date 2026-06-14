@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "process_name": [
+        "com.disney.disneyplus",
+        "com.disney.datg.videoplatforms.android.abc"
+      ]
+    }
+  ],
+  "version": 3
+}
